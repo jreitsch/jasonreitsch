@@ -1,0 +1,16 @@
+html, body {
+  background: #000;
+  margin: 0;
+}
+
+canvas {
+  position: absolute;
+}
+
+marquee {
+    color:white;
+    loop:-1;
+    scrollamount="2";
+    width="100%";
+    width="100%";
+}
